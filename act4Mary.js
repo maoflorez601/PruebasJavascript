@@ -82,7 +82,6 @@ function agregarEncuestado(){
 	encuestados.push(enc);
 	alert('Persona agregada con éxito');
 	
-	agregarCancionesEncuestado();
 }
 
 function obtenerStringListaEncuestados(){
